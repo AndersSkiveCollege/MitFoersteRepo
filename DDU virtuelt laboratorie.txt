@@ -1,0 +1,10 @@
+Virtuel laboratorium
+Laboratoriearbejde er en vigtig del af skolegangen på et teknisk gymnasium. Nogle typer forsøg kan være svært at lave i den virkelige verden, fordi de enten er 
+for dyre eller for farlige til at man kan udføre dem i skolens laboratorier. I dette projekt skal I prøve at lave et laboratorium ved hjælp af Virtual Reality(VR). 
+Der skal udvælges et forsøg eller emne inden for de naturvidenskabelige fag på HTX, hvor man kan lave et fedt virtuelt laboratorium. Her skal der kunne laves
+ forsøg, hvor man kan få data ud, som skal kunne plottes ind i programmer som Excell eller Maple.
+
+Der skal være fokus på:
+	• Man skal kunne lave forsøg og forstå emnet kun ved hjælp af dette laboratorium.
+	• Der skal laves forbedringer på baggrund af bruger input.
+	• Det må gerne være kreative laboratoriumer, som udnytter potentialet i VR.
