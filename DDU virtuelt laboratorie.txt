@@ -8,3 +8,5 @@ Der skal være fokus på:
 	• Man skal kunne lave forsøg og forstå emnet kun ved hjælp af dette laboratorium.
 	• Der skal laves forbedringer på baggrund af bruger input.
 	• Det må gerne være kreative laboratoriumer, som udnytter potentialet i VR.
+
+- Mikkel
